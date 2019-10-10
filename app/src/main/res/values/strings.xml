@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">GlukoLyzer</string>
+    <string name="hello_world_text">0</string>
+    <string name="toast_button">Toast</string>
+    <string name="count_button">Count</string>
+    <string name="random_button">Random</string>
+    <string name="random_header">There is randomly generated number between 0 and %1d.</string>
+    <string name="random_number">9</string>
 </resources>
